@@ -2,8 +2,6 @@
 #include <fstream>
 #include <string>
 #include <vector>
-#include <cstring>
-#include <numeric>
 
 std::vector<std::string> parseInput(std::ifstream &in)
 {

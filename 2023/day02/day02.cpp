@@ -2,8 +2,6 @@
 #include <fstream>
 #include <string>
 #include <vector>
-#include <cstring>
-#include <regex>
 #include <algorithm>
 
 // Max number of cubes per game (part1)
